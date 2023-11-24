@@ -1,0 +1,23 @@
+[33mcommit da64dae3fac9a481e1937d1b3e7d338c4de6ca43[m[33m ([m[1;36mHEAD -> [m[1;32msecondFeature[m[33m, [m[1;32mclassifier[m[33m)[m
+Author: C_Mugarura <cyprian.mugarura@gmail.com>
+Date:   Thu Nov 23 19:19:55 2023 -0500
+
+    Created predict() function
+
+[33mcommit a800ee7ea9cd6333399b1ed6238d80de4c419c2a[m
+Author: C_Mugarura <cyprian.mugarura@gmail.com>
+Date:   Thu Nov 23 19:18:26 2023 -0500
+
+    Created classifier.cpp and added train() function which prints train
+
+[33mcommit 09039f68e88502d3267556402cf89afccad4dd21[m
+Author: C_Mugarura <cyprian.mugarura@gmail.com>
+Date:   Thu Nov 23 19:08:50 2023 -0500
+
+    Pasted message into Readme file
+
+[33mcommit 2ca137e19287605959f498fe656ceec47a887827[m
+Author: yngaftsotwtly <145694247+yngaftsotwtly@users.noreply.github.com>
+Date:   Thu Nov 23 19:06:27 2023 -0500
+
+    Initial commit
